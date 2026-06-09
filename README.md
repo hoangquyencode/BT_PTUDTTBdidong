@@ -140,5 +140,24 @@ Maps, Sensors (Cảm biến): Định vị GPS, cảm biến lắc điện tho�
 
 
 
+## Kết quả
+
+
+
+
+
+
+
+
+
+<img width="746" height="416" alt="image" src="https://github.com/user-attachments/assets/f7b20dd7-da5d-46cc-8e1e-c0b05bc59f0f" />
+
+
+
+
+
+
+
+
 
 ## 2. Viết app sử dụng Android Studio
