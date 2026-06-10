@@ -161,3 +161,30 @@ Maps, Sensors (Cảm biến): Định vị GPS, cảm biến lắc điện tho�
 
 
 ## 2. Viết app sử dụng Android Studio
+
+Mở Android Studio: Chọn New Project -> Empty Views Activity -> Nhấn Next.
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1135" height="813" alt="image" src="https://github.com/user-attachments/assets/68e9a101-73c2-45c8-bfcb-ce4fbcfbf97a" />
+
+
+
+
+
+
+
+
+
+<img width="1124" height="811" alt="image" src="https://github.com/user-attachments/assets/a1b79ac5-0388-4d49-bea2-a3d27f078744" />
+
+
